@@ -4,8 +4,8 @@
  * Plugin URI: https://github.com/anacronox/wp-smtp-mail
  * Description: Simple smtp configuration for wordpress
  * Version: 1.0
- * Author: Anacronox
- * Author URI: https://github.com/anacronox/
+ * Author: John BOTELLA
+ * Author URI: https://www.john-botella.fr
  */
 
 
